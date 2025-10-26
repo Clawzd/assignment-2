@@ -1,0 +1,47 @@
+/* src/index.css */
+
+/* Tailwind v4 core import */
+@import "tailwindcss";
+
+
+
+/* Body setup */
+
+
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #000;
+  color: white;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  overflow-x: hidden;
+}
+
+/* Utility: purple gradient background */
+.gradient-purple {
+  background: linear-gradient(135deg, #8b5cf6, #a855f7);
+}
+
+/* Utility: glowing purple shadow */
+.glow-purple {
+  box-shadow: 0 0 20px rgba(139, 92, 246, 0.3);
+}
+
+/* Subtle tech grid for light mode */
+.tech-grid {
+  background-image: radial-gradient(
+    circle at 1px 1px,
+    rgba(139, 92, 246, 0.1) 1px,
+    transparent 0
+  );
+  background-size: 20px 20px;
+}
+
+/* Optional: smooth animations for elements */
+* {
+  transition: all 0.3s ease;
+}
+html {
+  transform: scale(1.25);
+  transform-origin: top center;
+}
