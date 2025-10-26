@@ -27,7 +27,7 @@ vite-project/
 │ │ │ └─ ProjectForm.jsx
 │ │ └─ ui/ # button, input, textarea, badge, select
 │ ├─ data/
-│ │ └─ projectsData.js # edit your projects here
+│ │ └─ projectsData.js
 │ ├─ pages/
 │ │ ├─ Landing.jsx
 │ │ ├─ Projects.jsx
