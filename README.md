@@ -98,13 +98,13 @@ MIT
 ## 🖼️ Project Preview
 
 <p align="center">
-  <img src="src/assets/readme1.png" width="800" alt="Homepage Preview">
+  <img src="vite-project/src/assets/readme1.png" width="800" alt="Homepage Preview">
 </p>
 
 <p align="center">
-  <img src="src/assets/readme2.png" width="800" alt="Homepage Preview">
+  <img src="vite-project/src/assets/readme2.png" width="800" alt="Homepage Preview">
 </p>
 
 <p align="center">
-  <img src="src/assets/readme3.png" width="800" alt="Homepage Preview">
+  <img src="vite-project/src/assets/readme3.png" width="800" alt="Homepage Preview">
 </p>
