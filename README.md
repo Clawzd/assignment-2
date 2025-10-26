@@ -17,31 +17,31 @@ A minimalist developer portfolio with an animated space background (twinkling st
 ## Project Structure
 
 vite-project/
-  ├─ public/
-  ├─ src/
-  │  ├─ assets/                # images (profile + project thumbnails)
-  │  ├─ components/
-  │  │  ├─ projects/
-  │  │  │  ├─ ProjectCard.jsx
-  │  │  │  └─ ProjectForm.jsx
-  │  │  └─ ui/                 # button, input, textarea, badge, select
-  │  ├─ data/
-  │  │  └─ projectsData.js     # edit your projects here
-  │  ├─ pages/
-  │  │  ├─ Landing.jsx
-  │  │  ├─ Projects.jsx
-  │  │  └─ Contact.jsx
-  │  ├─ utils/
-  │  │  ├─ index.js
-  │  │  └─ useTheme.js         # theme subscription hook
-  │  ├─ App.jsx
-  │  ├─ Layout.jsx             # navbar + background + theme
-  │  ├─ index.css              # Tailwind v4 import + globals
-  │  └─ main.jsx
-  ├─ tailwind.config.js
-  ├─ postcss.config.js
-  ├─ package.json
-  └─ README.md
+├─ public/
+├─ src/
+│ ├─ assets/ # images (profile + project thumbnails)
+│ ├─ components/
+│ │ ├─ projects/
+│ │ │ ├─ ProjectCard.jsx
+│ │ │ └─ ProjectForm.jsx
+│ │ └─ ui/ # button, input, textarea, badge, select
+│ ├─ data/
+│ │ └─ projectsData.js # edit your projects here
+│ ├─ pages/
+│ │ ├─ Landing.jsx
+│ │ ├─ Projects.jsx
+│ │ └─ Contact.jsx
+│ ├─ utils/
+│ │ ├─ index.js
+│ │ └─ useTheme.js # theme subscription hook
+│ ├─ App.jsx
+│ ├─ Layout.jsx # navbar + background + theme
+│ ├─ index.css # Tailwind v4 import + globals
+│ └─ main.jsx
+├─ tailwind.config.js
+├─ postcss.config.js
+├─ package.json
+└─ README.md
 
 ## Getting Started
 
