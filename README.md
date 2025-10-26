@@ -16,6 +16,7 @@ A minimalist developer portfolio with an animated space background (twinkling st
 
 ## Project Structure
 
+```
 vite-project/
 ├─ public/
 ├─ src/
@@ -42,7 +43,7 @@ vite-project/
 ├─ postcss.config.js
 ├─ package.json
 └─ README.md
-
+```
 ## Getting Started
 
 ### Requirements
